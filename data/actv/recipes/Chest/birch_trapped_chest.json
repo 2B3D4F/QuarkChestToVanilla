@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "quark:birch_trapped_chest"
+        }
+    ],
+    "result": {
+        "item": "minecraft:trapped_chest",
+        "count": 1
+    },
+    "group": "Vanilla trapped chest"
+}

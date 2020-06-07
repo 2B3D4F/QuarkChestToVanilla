@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "quark:birch_chest"
+        }
+    ],
+    "result": {
+        "item": "minecraft:chest",
+        "count": 1
+    },
+    "group": "Vanilla Chest"
+}
